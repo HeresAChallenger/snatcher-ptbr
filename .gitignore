@@ -1,0 +1,12 @@
+# Nunca versionar o jogo, imagens ou arquivos derivados dele
+*.bin
+*.BIN
+*.iso
+*.cue
+*.zip
+*.7z
+texto/
+modificado/
+teste/
+original/
+Original/

@@ -44,4 +44,8 @@ python tools\snatcher_sp.py inserir Original texto modificado
 
 ## Créditos e aviso legal
 
+**Projeto e curadoria:** Rafael "Riris" Barbosa ([@HeresAChallenger](https://github.com/HeresAChallenger)), que teve a iniciativa, define as decisões de tradução e conduz o projeto.
+
+**Coautoria:** Claude (Anthropic), que fez a maior parte do trabalho técnico e de tradução bruta, incluindo as ferramentas de apoio.
+
 Snatcher é uma obra de Konami e Hideo Kojima. Este é um projeto de fãs, sem fins comerciais e sem qualquer vínculo com a Konami. Não distribuímos o jogo nem arquivos derivados dele. Use o patch apenas com uma cópia legítima do jogo que você possui.

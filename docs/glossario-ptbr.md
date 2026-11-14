@@ -1,6 +1,6 @@
 # Glossário e padrão de tradução — Snatcher PT-BR
 
-Status: **v1.3 (14/11/2026)**. Decisões aplicadas; itens em aberto são marcados com ❓.
+Status: **v1.4 (14/11/2026)**. Decisões aplicadas; itens em aberto são marcados com ❓.
 
 ## 1. Termos do universo
 | Termo original | Decisão | Observação |
@@ -39,7 +39,7 @@ O K vem de **K**obe; "Replicantes" é homenagem deliberada a Blade Runner e só 
 ## 3. Comandos de menu (máx. 32 caracteres; infinitivo, maiúsculas)
 Não unificar strings de menu: o jogo identifica o item pela posição/offset.
 - "ABOUT X" → **SOBRE X**. "SAVE 1–4" → **ARQUIVO 1–4**. "USE X" → **USAR X**. VIDEOPHONE → **VIDEOFONE**.
-- ❓ Conferir "USE LIGHT" (em fala: **USAR LUZ**), IR/MOVER, ABRIR/FECHAR nos demais textos.
+- "USE LIGHT" → **USAR LUZ** (conferido). IR/MOVER, ABRIR/FECHAR conferidos.
 
 ## 4. Nomes de falantes (máx. 24 caracteres)
 | Original | Decisão |
@@ -68,3 +68,10 @@ Nomes próprios (Gillian, Mika, Jamie, Harry, Napoleon, Katrina, Metal Gear, Ran
 - Nomes pesquisáveis no JORDAN: sem acento, maiúsculos (teclado só A–Z, `-`, `.`, `'`).
 - Não traduzir: `SNATCHER_01`–`SNATCHER_04` (nomes de save na BRAM) e SP01 (debug).
 - Códigos de controle (`{BR}`, `{PAG}`, `{TECLA1/2/3}`, `{C0}`–`{C6}`) são preservados.
+
+## 8. Decisões finais da Beta 0.1 (14/11/2026)
+- **Idade de Katrina:** 18 anos, como no texto americano. (Na versão japonesa ela pode ter 14; não alterado.)
+- **Nomes consultados no JORDAN:** mantidos no original. O teclado do JORDAN não é traduzido.
+- **Textos de gráfico** ("NEW GAME", "LOG IN"): ficam para o fim do projeto.
+- **Letras de música (SP02):** mantidas em inglês.
+- **Sigla JUNKER no SP08 (bloco 0373):** conferida e correta.

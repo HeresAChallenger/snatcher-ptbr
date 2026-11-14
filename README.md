@@ -8,12 +8,12 @@ Tradução de fãs de **Snatcher** (Konami, 1988; roteiro e direção de Hideo K
 
 **Somente um patch** (xdelta/BPS), que você aplica sobre a sua própria cópia legal da versão americana do Mega CD. Este repositório **não contém o jogo**, imagens, nem o texto extraído dele.
 
-> ⚠️ O patch ainda não foi publicado. Ele será anexado a um *release* quando estiver testado.
+> ✅ O patch da versão Beta 0.1 está disponível na página de [releases](../../releases/tag/v0.1-beta).
 
 ## Requisitos
 
 - Uma cópia legítima de **Snatcher (USA)** para Mega CD, dump Redump (1 `.cue` + 21 `.bin`).
-- Para aplicar o patch: um programa de patch (xdelta ou BPS). A instrução exata será publicada junto com o release.
+- Para aplicar o patch: o **xdelta3** (instruções de uso na página do release).
 - Para testes no hardware: Mega Drive com Mega EverDrive Pro (ou emulador compatível).
 
 ## Pendências conhecidas (Beta 0.1)
